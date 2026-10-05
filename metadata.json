@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉRA BEAUTY – Glow. Care. Confidence.",
+  "description": "Premium luxury cosmetics, skincare, makeup, and fragrance boutique for modern women. Authentic beauty essentials delivered across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
